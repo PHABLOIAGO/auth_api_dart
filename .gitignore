@@ -2,6 +2,7 @@
 .dart_tool/
 .packages
 .history
+.env
 # Conventional directory for build outputs
 build/
 
